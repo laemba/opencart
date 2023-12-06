@@ -1,0 +1,10 @@
+10:03:26.932 [main] INFO  testCases.LoginTest - ***** started Login Test****
+10:03:26.978 [main] INFO  testCases.LoginTest - Entered username
+10:03:27.617 [main] INFO  testCases.LoginTest - Entered username
+10:03:27.767 [main] INFO  testCases.LoginTest - click on login
+10:03:27.876 [main] ERROR testCases.LoginTest - test is failed
+10:03:33.089 [main] INFO  testCases.LoginTest2 - ***** started Login Test****
+10:03:33.090 [main] INFO  testCases.LoginTest2 - Entered username
+10:03:33.749 [main] INFO  testCases.LoginTest2 - Entered username
+10:03:33.940 [main] INFO  testCases.LoginTest2 - click on login
+10:03:35.091 [main] ERROR testCases.LoginTest2 - test is failed
