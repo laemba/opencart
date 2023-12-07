@@ -23,14 +23,14 @@ public class Loginpage
 	WebElement login;
 	
 	
-	public void setUsername()
+	public void setUsername(String uname)
 	{
-		username.sendKeys("Admin");
+		username.sendKeys(uname);
 	}
 	
-	public void enterPassword()
+	public void enterPassword(String pwd)
 	{
-		password.sendKeys("admin1234");
+		password.sendKeys(pwd);
 	}
 	
 	public void clickLogin()

@@ -12,9 +12,9 @@ public class LoginTest extends Baseclass
 		logger.info("***** started Login Test****");
 		Loginpage lg=new Loginpage(driver);
 		logger.info("Entered username");
-		lg.setUsername();
+		lg.setUsername(rb.getString("username"));
 		logger.info("Entered username");
-		lg.enterPassword();
+		lg.enterPassword(rb.getString("password"));
 		logger.info("click on login");
 		lg.clickLogin();
 		
