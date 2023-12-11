@@ -1,5 +1,6 @@
 package testCases;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.Loginpage;
 import testBase.Baseclass;
@@ -18,13 +19,15 @@ public class LoginTest extends Baseclass
 		logger.info("click on login");
 		lg.clickLogin();
 		
-		if("welcome".equals("welome"))
+		if("welcome".equals(driver.getTitle()))
 		{
 			logger.info("Test is passed");
+			Assert.assertTrue(true);
 		}
 		else
 		{
 			logger.error("test is failed");
+			Assert.assertTrue(false);
 		}
 	}
 }
