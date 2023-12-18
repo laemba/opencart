@@ -1,0 +1,79 @@
+09:10:22 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:10:22 [main] ERROR testCases.LoginTest - test is failed
+09:10:52 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:10:52 [main] ERROR testCases.LoginTest - test is failed
+08:33:52 [main] INFO  testCases.LoginTest - ***** started Login Test****
+08:33:52 [main] INFO  testCases.LoginTest - Entered username
+08:33:53 [main] INFO  testCases.LoginTest - Entered username
+08:33:53 [main] INFO  testCases.LoginTest - click on login
+08:33:55 [main] ERROR testCases.LoginTest - test is failed
+09:21:28 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:21:28 [main] INFO  testCases.LoginTest - Entered username
+09:21:28 [main] INFO  testCases.LoginTest - Entered username
+09:21:29 [main] INFO  testCases.LoginTest - click on login
+09:21:30 [main] ERROR testCases.LoginTest - test is failed
+09:21:30 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:21:30 [main] INFO  testCases.LoginTest - Entered username
+09:21:30 [main] INFO  testCases.LoginTest - Entered username
+09:21:30 [main] INFO  testCases.LoginTest - click on login
+09:21:32 [main] ERROR testCases.LoginTest - test is failed
+09:21:32 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:21:32 [main] INFO  testCases.LoginTest - Entered username
+09:21:32 [main] INFO  testCases.LoginTest - Entered username
+09:21:33 [main] INFO  testCases.LoginTest - click on login
+09:21:34 [main] ERROR testCases.LoginTest - test is failed
+09:32:21 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:32:21 [main] INFO  testCases.LoginTest - Entered username
+09:32:21 [main] INFO  testCases.LoginTest - Entered username
+09:32:21 [main] INFO  testCases.LoginTest - click on login
+09:32:22 [main] ERROR testCases.LoginTest - test is failed
+09:32:22 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:32:22 [main] INFO  testCases.LoginTest - Entered username
+09:32:23 [main] INFO  testCases.LoginTest - Entered username
+09:32:23 [main] INFO  testCases.LoginTest - click on login
+09:32:23 [main] ERROR testCases.LoginTest - test is failed
+09:32:24 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:32:24 [main] INFO  testCases.LoginTest - Entered username
+09:32:24 [main] INFO  testCases.LoginTest - Entered username
+09:32:24 [main] INFO  testCases.LoginTest - click on login
+09:32:25 [main] ERROR testCases.LoginTest - test is failed
+09:43:32 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:43:32 [main] INFO  testCases.LoginTest - Entered username
+09:43:32 [main] INFO  testCases.LoginTest - Entered username
+09:43:32 [main] INFO  testCases.LoginTest - click on login
+09:43:33 [main] ERROR testCases.LoginTest - test is failed
+09:43:33 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:43:33 [main] INFO  testCases.LoginTest - Entered username
+09:43:33 [main] INFO  testCases.LoginTest - Entered username
+09:43:33 [main] INFO  testCases.LoginTest - click on login
+09:43:34 [main] ERROR testCases.LoginTest - test is failed
+09:43:34 [main] INFO  testCases.LoginTest - ***** started Login Test****
+09:43:34 [main] INFO  testCases.LoginTest - Entered username
+09:43:35 [main] INFO  testCases.LoginTest - Entered username
+09:43:35 [main] INFO  testCases.LoginTest - click on login
+09:43:35 [main] ERROR testCases.LoginTest - test is failed
+11:36:22 [main] INFO  testCases.LoginTest - ***** started Login Test****
+11:36:22 [main] INFO  testCases.LoginTest - Entered username
+11:36:22 [main] INFO  testCases.LoginTest - Entered username
+11:36:22 [main] INFO  testCases.LoginTest - click on login
+11:36:23 [main] ERROR testCases.LoginTest - test is failed
+11:36:23 [main] INFO  testCases.LoginTest - ***** started Login Test****
+11:36:23 [main] INFO  testCases.LoginTest - Entered username
+11:36:23 [main] INFO  testCases.LoginTest - Entered username
+11:36:24 [main] INFO  testCases.LoginTest - click on login
+11:36:24 [main] ERROR testCases.LoginTest - test is failed
+11:36:24 [main] INFO  testCases.LoginTest - ***** started Login Test****
+11:36:24 [main] INFO  testCases.LoginTest - Entered username
+11:36:25 [main] INFO  testCases.LoginTest - Entered username
+11:36:25 [main] INFO  testCases.LoginTest - click on login
+11:36:26 [main] ERROR testCases.LoginTest - test is failed
+11:41:41 [main] INFO  testCases.LoginTest - ***** started Login Test****
+11:41:41 [main] INFO  testCases.LoginTest - Entered username
+11:41:41 [main] INFO  testCases.LoginTest - Entered username
+11:41:41 [main] INFO  testCases.LoginTest - click on login
+11:41:42 [main] ERROR testCases.LoginTest - test is failed
+11:41:42 [main] INFO  testCases.LoginTest - ***** started Login Test****
+11:41:42 [main] INFO  testCases.LoginTest - Entered username
+11:41:43 [main] INFO  testCases.LoginTest - Entered username
+11:41:43 [main] INFO  testCases.LoginTest - click on login
+11:41:44 [main] ERROR testCases.LoginTest - test is failed
